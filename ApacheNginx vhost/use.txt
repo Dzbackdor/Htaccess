@@ -1,2 +1,2 @@
 ## edit & simpan dengan nama file .user.ini
-auto_prepend_file=/var/www/vhosts/domain.com/httpdocs/security.php
+auto_prepend_file=/var/www/vhosts/domain.com/httpdocs/wordfence-waf.php
